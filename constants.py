@@ -4,7 +4,7 @@ __author__ = 'Ivan'
 
 
 class Credentials(object):
-    TTHA2LOGIN = os.environ['TTHA2LOGIN']
+    TTHA2LOGIN = 'tech-testing-ha2-15'
     TTHA2PASSWORD = os.environ['TTHA2PASSWORD']
     DOMAIN = '@bk.ru'
 
