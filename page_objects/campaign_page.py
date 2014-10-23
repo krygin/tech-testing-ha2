@@ -1,4 +1,3 @@
-from components.campaign_properties import CampaignProperties
 from components.delete_campaign_button import DeleteCampaignButton
 from components.edit_campaign_button import EditCampaignButton
 from page_objects.page import Page

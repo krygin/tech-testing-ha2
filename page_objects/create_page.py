@@ -1,4 +1,4 @@
-from components.advert import Advert
+from components.Advert import Advert
 from components.campaign_settings import CampaignSettings
 from components.create_campaign_button import CreateCampaignButton
 from components.income_checkbox_group import IncomeCheckboxGroup
